@@ -14,3 +14,12 @@ data.forEach(function(ufoSighting){
         cell.text(value);
     });
 });
+
+var button = d3.select("#filter-btn");
+
+button.on("click", function(event){
+    d3.event.preventDefault();
+    tbody.html("");
+
+var inputElement = d3.select("#datetime"); 
+var inputValue = inputElement.property("value");
