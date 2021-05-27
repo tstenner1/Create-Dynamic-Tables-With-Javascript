@@ -1,4 +1,4 @@
-# JavaScript Homework - JavaScript and DOM Manipulation
+# JavaScript and DOM Manipulation
 
 Below is a trimmed down readme highlighting the specific skills executed in this assignment.
 
