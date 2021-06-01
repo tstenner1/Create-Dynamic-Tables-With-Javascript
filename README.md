@@ -1,6 +1,6 @@
 # JavaScript and DOM Manipulation
 
-In this repository I wrote code that will create a table dynamically based upon a provided dataset. I also needed to allow users to filter the table data for specific values. I used JavaScript, HTML, and CSS, and D3.js on the web pages. 
+In this repository I wrote code that created a dynamic table based upon a provided dataset. I also needed to allow users to filter the table data for specific values. I used JavaScript, HTML, and CSS, and D3.js on the web pages. 
 
 ### Part 1: Automatic Table and Date Search
 
