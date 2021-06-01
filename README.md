@@ -6,7 +6,7 @@ In this repository I wrote code that created a dynamic table based upon a provid
 
 * For starters I created a basic HTML web page.
 
-* Using the UFO dataset provided in the form of an array of JavaScript objects, I wrote code that appended a table to my web page and then added new rows of data for each UFO sighting.  Making sure to have a column for `date/time`, `city`, `state`, `country`, `shape`, and `comment` at the very least.
+* Using the UFO dataset provided in the form of an array of JavaScript objects, I wrote code that appended a table to my web page and then added new rows of data for each UFO sighting.  Making sure to have a column for `date/time`, `city`, `state`, `country`, `shape`, and `comment`.
 
 * I then used a date form in my HTML document and wrote JavaScript code that listened for events and searched through the `date/time` column to find rows that match user input.
 
